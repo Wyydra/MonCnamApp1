@@ -1,0 +1,182 @@
+[
+  {
+    "id": "001",
+    "member": "RM",
+    "group": "BTS",
+    "image_url": "assets/image.jpg",
+    "description": "RM from BTS's photocard for their latest album.",
+    "rarity": "Rare",
+    "year": 2024
+  },
+  {
+    "id": "002",
+    "member": "Lisa",
+    "group": "BLACKPINK",
+    "image_url": "assets/image.jpg",
+    "description": "Lisa from BLACKPINK's photocard for their latest album.",
+    "rarity": "Common",
+    "year": 2023
+  },
+  {
+    "id": "003",
+    "member": "Jinyoung",
+    "group": "GOT7",
+    "image_url": "assets/image.jpg",
+    "description": "Jinyoung from GOT7's photocard for their latest album.",
+    "rarity": "Rare",
+    "year": 2022
+  },
+  {
+    "id": "004",
+    "member": "Jennie",
+    "group": "BLACKPINK",
+    "image_url": "assets/image.jpg",
+    "description": "Jennie from BLACKPINK's photocard for their latest album.",
+    "rarity": "Common",
+    "year": 2024
+  },
+  {
+    "id": "005",
+    "member": "V",
+    "group": "BTS",
+    "image_url": "assets/image.jpg",
+    "description": "V from BTS's photocard for their latest album.",
+    "rarity": "Rare",
+    "year": 2023
+  },
+  {
+    "id": "006",
+    "member": "JB",
+    "group": "GOT7",
+    "image_url": "assets/image.jpg",
+    "description": "JB from GOT7's photocard for their latest album.",
+    "rarity": "Common",
+    "year": 2022
+  },
+  {
+    "id": "007",
+    "member": "Rosé",
+    "group": "BLACKPINK",
+    "image_url": "assets/image.jpg",
+    "description": "Rosé from BLACKPINK's photocard for their latest album.",
+    "rarity": "Rare",
+    "year": 2024
+  },
+  {
+    "id": "008",
+    "member": "Suga",
+    "group": "BTS",
+    "image_url": "assets/image.jpg",
+    "description": "Suga from BTS's photocard for their latest album.",
+    "rarity": "Common",
+    "year": 2023
+  },
+  {
+    "id": "009",
+    "member": "Jackson",
+    "group": "GOT7",
+    "image_url": "assets/image.jpg",
+    "description": "Jackson from GOT7's photocard for their latest album.",
+    "rarity": "Rare",
+    "year": 2022
+  },
+  {
+    "id": "010",
+    "member": "Jisoo",
+    "group": "BLACKPINK",
+    "image_url": "assets/image.jpg",
+    "description": "Jisoo from BLACKPINK's photocard for their latest album.",
+    "rarity": "Common",
+    "year": 2024
+  },
+  {
+    "id": "011",
+    "member": "J-Hope",
+    "group": "BTS",
+    "image_url": "assets/image.jpg",
+    "description": "J-Hope from BTS's photocard for their latest album.",
+    "rarity": "Rare",
+    "year": 2023
+  },
+  {
+    "id": "012",
+    "member": "Jennie",
+    "group": "BLACKPINK",
+    "image_url": "assets/image.jpg",
+    "description": "Jennie from BLACKPINK's photocard for their latest album.",
+    "rarity": "Common",
+    "year": 2022
+  },
+  {
+    "id": "013",
+    "member": "Jungkook",
+    "group": "BTS",
+    "image_url": "assets/image.jpg",
+    "description": "Jungkook from BTS's photocard for their latest album.",
+    "rarity": "Rare",
+    "year": 2024
+  },
+  {
+    "id": "014",
+    "member": "Jisoo",
+    "group": "BLACKPINK",
+    "image_url": "assets/image.jpg",
+    "description": "Jisoo from BLACKPINK's photocard for their latest album.",
+    "rarity": "Common",
+    "year": 2023
+  },
+  {
+    "id": "015",
+    "member": "Mark",
+    "group": "GOT7",
+    "image_url": "assets/image.jpg",
+    "description": "Mark from GOT7's photocard for their latest album.",
+    "rarity": "Rare",
+    "year": 2022
+  },
+  {
+    "id": "016",
+    "member": "Jennie",
+    "group": "BLACKPINK",
+    "image_url": "assets/image.jpg",
+    "description": "Jennie from BLACKPINK's photocard for their latest album.",
+    "rarity": "Common",
+    "year": 2024
+  },
+  {
+    "id": "017",
+    "member": "Jimin",
+    "group": "BTS",
+    "image_url": "assets/image.jpg",
+    "description": "Jimin from BTS's photocard for their latest album.",
+    "rarity": "Rare",
+    "year": 2023
+  },
+  {
+    "id": "018",
+    "member": "Rose",
+    "group": "BLACKPINK",
+    "image_url": "assets/image.jpg",
+    "description": "Rose from BLACKPINK's photocard for their latest album.",
+    "rarity": "Common",
+    "year": 2022
+  },
+  {
+    "id": "019",
+    "member": "J-Hope",
+    "group": "BTS",
+    "image_url": "assets/image.jpg",
+    "description": "J-Hope from BTS's photocard for their latest album.",
+    "rarity": "Rare",
+    "year": 2024
+  },
+  {
+    "id": "020",
+    "member": "BamBam",
+    "group": "GOT7",
+    "image_url": "assets/image.jpg",
+    "description": "BamBam from GOT7's photocard for their latest album.",
+    "rarity": "Common",
+    "year": 2023
+  }
+]
